@@ -1,4 +1,4 @@
-# Resumo Completo — Embeddings, Processamento de Texto, Dados e Aprendizado de Máquina
+# Embeddings, Processamento de Texto, Dados e Aprendizado de Máquina
 
 # 1. Introdução Geral
 
