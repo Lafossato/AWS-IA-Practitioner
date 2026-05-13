@@ -1,4 +1,4 @@
-# Resumo Detalhado — Fundamentos de IA, Machine Learning e Modelos de Linguagem
+# Fundamentos de IA, Machine Learning e Modelos de Linguagem
 
 ## 1. Inteligência Artificial (IA)
 
