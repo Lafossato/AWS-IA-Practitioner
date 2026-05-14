@@ -1,4 +1,4 @@
-# Resumo Completo — Técnicas de Machine Learning
+# Técnicas de Machine Learning
 
 # 1. Introdução Geral
 
