@@ -1,4 +1,4 @@
-# Resumo Completo — Métricas de Regressão, PDPs e Infraestrutura AWS para IA
+# Métricas de Regressão, PDPs e Infraestrutura AWS para IA
 
 # 1. Introdução Geral
 
