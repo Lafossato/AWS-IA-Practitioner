@@ -1,4 +1,4 @@
-# Resumo Completo — Tipos de Inferência e Métricas de Performance de Modelos
+# Tipos de Inferência e Métricas de Performance de Modelos
 
 # 1. Introdução Geral
 
