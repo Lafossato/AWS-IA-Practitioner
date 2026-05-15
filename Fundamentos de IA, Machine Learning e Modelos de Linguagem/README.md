@@ -406,7 +406,7 @@ Palavras sem relação ficam distantes:
 
 ---
 
-## 17. Conclusão Geral
+## Conclusão Geral
 
 A evolução dos conceitos ocorre da seguinte forma:
 
