@@ -926,7 +926,7 @@ Tokens são as menores unidades processadas pelo modelo.
 
 ---
 
-# 36. Conclusão Geral
+# Conclusão Geral
 
 A aula mostra toda a base de funcionamento da IA moderna.
 
